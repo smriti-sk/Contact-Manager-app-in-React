@@ -1,2 +1,5 @@
 # Contact-Manager-app-in-React
-This is a contact manager application in react.
+This project is made in React and bootstrapped with Create React App.
+
+
+
